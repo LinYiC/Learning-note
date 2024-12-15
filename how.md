@@ -1,3 +1,3 @@
-some useful coding educational websites,
+some useful coding educational websites
 [exercism](https://exercism.org/tracks)
-[datacamp)(https://app.datacamp.com/learn)
+[datacamp](https://app.datacamp.com/learn)
